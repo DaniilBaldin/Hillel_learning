@@ -1,0 +1,6 @@
+my_value_float = float(input('Введите любое значение:'))
+print(my_value_float)
+my_value_int = int(my_value_float)
+print(my_value_int)
+my_value_str = str(my_value_float)
+print(my_value_str)
