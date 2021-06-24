@@ -28,4 +28,3 @@ print(dct)
 dct['new_key'] = 'new_value'
 print(dct)
 print(id(dct))
-print(id(dct))
