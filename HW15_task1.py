@@ -29,7 +29,6 @@ class Employees:
         for employees in data['employee']:
             return employees['lastName']
 
-
     print(employee_names())
 
     @staticmethod
